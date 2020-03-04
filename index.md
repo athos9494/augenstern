@@ -1,4 +1,4 @@
-## 哈哈哈哈，我终于有自己的网页啦。
+## 哈哈哈哈，我终于有自己的网页啦
 
 You can use the [editor on GitHub](https://github.com/athos9494/augenstern/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
